@@ -7,7 +7,7 @@ The Research and Innovation track at SEMANTiCS 2023 EU welcomes papers on novel 
 * **Notification of Acceptance**: June 20, 2023 (11:59 pm, Hawaii time)
 * **Camera-Ready Paper Deadline**: July 04, 2023 (11:59 pm, Hawaii time)  
 
-**Submission via Easychair on https://easychair.org/ https://easychair.org/conferences/?conf=sem23**. Proceedings of SEMANTiCS 2023 EU will be made available open access. The publisher will be IOS Press - Studies on Semantic Web Series.
+**Submission via Easychair on [https://easychair.org/](https://easychair.org/conferences/?conf=sem23)**. Proceedings of SEMANTiCS 2023 EU will be made available open access. The publisher will be IOS Press - Studies on Semantic Web Series.
 
 ## Topics of Interest
 SEMANTiCS 2023 especially invites contributions that target the following main topics, sub-topics in the context of  semantic-based research and systems as well as applicative domains.
@@ -48,10 +48,10 @@ Application of Semantically Enriched and AI-Based Approaches:
 ## Author Guidelines and Submission
 * The Research and Innovation Track welcomes long and short papers. Long papers should have 12-15 pages of content (excluding references) and short papers of a maximum length of 6 pages of content (excluding references). Since references are excluded from page counting, it is fine to have one or more additional pages for references if they are relevant to the study submitted.  
 * Submissions should follow the guidelines of IOS Press. Details are available at https://www.iospress.com/book-article-instructions.
-* Abstract submission for all papers is a strict requirement. To facilitate bidding, we strongly suggest the authors submit structured abstracts.
+* Abstract submission for all papers is a strict requirement. To facilitate bidding, we strongly suggest the authors [submit structured abstracts](./cfp_abstract).
 * All papers and abstracts have to be submitted electronically via EasyChair (https://easychair.org/conferences/?conf=sem23).
 * Submissions must be in English.
-* Submissions must be anonymous; the reviewing process is double-blind, but reviewers will be able to disclose their identities if they wish, by signing their reviews.
+* Submissions must be anonymous; the [reviewing process](https://2023-eu.semantics.cc/page/cfp_guidelines) is double-blind, but reviewers will be able to disclose their identities if they wish, by signing their reviews.
 * Accepted papers will be published in open access proceedings by IOS Press, and the text of all the reviews (excluding the scores) of all the accepted papers will be posted on the conference website and will be archived on [Zenodo](https://zenodo.org/) as publicly available material.
 * At least one author of each accepted paper must register for the conference and present the paper.
 * All authors are strongly suggested to provide optional links to code, materials, and datasets during the submission process - we will have specific optional  fields in the EasyChair submission form - the review process will take these into account when provided. To anonymise resources for the reviewing process, authors can use services like [Anonymous GitHub](https://anonymous.4open.science/) or figshare/Zenodo as described [here](https://ineed.coffee/post/how-to-disclose-data-for-double-blind-review-and-make-it-archived-open-data-upon-acceptance#double-blind-data-submission-on-figshare).
